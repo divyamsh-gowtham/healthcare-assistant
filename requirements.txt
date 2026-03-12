@@ -1,0 +1,7 @@
+python-telegram-bot
+pytesseract
+pillow
+groq
+python-dotenv
+fastapi
+uvicorn
